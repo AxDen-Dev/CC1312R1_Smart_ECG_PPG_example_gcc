@@ -77,7 +77,7 @@ screen 및 putty 등 시리얼 프로그램을 통해서 확인할 수 있으며
   </tr>
   <tr align="center">
     <td><img src="./asset/ECG_output.png"></td>
-    <td><img src="./asset/PPG_output.png"></td>
+    <td><img src="./asset/PPG_Output.png"></td>
   </tr>
 </table>
 
