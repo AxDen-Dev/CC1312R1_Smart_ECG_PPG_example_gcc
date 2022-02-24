@@ -94,7 +94,7 @@ Baudrate is 9600.
 
 ----
 
-#### How to check using AXDEN Aggregator Platform
+### How to check using AXDEN Aggregator Platform
 
 Register the MAC Address of the device after signing up as a member on the AXDEN Aggregator Platform website.
 <br>
